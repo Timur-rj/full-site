@@ -373,7 +373,9 @@ img.hero__section__right__img {
     justify-content: center;
     gap: 2rem;
   }
-
+.hero__section__left {
+  width: unset;
+}
   h1.hero__section__tiitle {
     width: unset;
     font-size: var(--biggest2-font-size);
