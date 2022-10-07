@@ -513,7 +513,9 @@ section.service {
 @media screen and (max-width: 852px) {
   .service__head {
     gap: 1.4rem;
+        align-items: flex-start;
   }
+  
   .service__disception {
     width: 100%;
   }
